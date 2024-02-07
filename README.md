@@ -39,6 +39,4 @@
 
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Sharan-m-04&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
-
 [![](https://visitcount.itsvg.in/api?id=Sharan-m-04&icon=0&color=3)](https://visitcount.itsvg.in)
