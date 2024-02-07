@@ -9,13 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sharan-m-04](https://github.com/Sharan-m-04)
 
-- 💬 Ask me about **Front-end, Web development...**
-
 - 📫 How to reach me **msharan.hnp@gmail.com**
 
 - 📄 Know about my experiences [https://sharan-m-04.github.io/](https://sharan-m-04.github.io/)
 
-<div style="text-align: center;">
+<div align="center">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_sharan_m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharanm04) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18408709/sharan-m) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sharan_M_) 
