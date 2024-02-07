@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharan-m-04" alt="sharan-m-04" /></a> </p>
 
-- 🔭 I’m currently working on a mini project [Inventory Management System](https://github.com/Sharan-m-04/Inventory-Management-System)
+- 🔭 I’m currently working on [Inventory Management System](https://github.com/Sharan-m-04/Inventory-Management-System)
 
-- 🌱 I’m currently learning **Frameworks, Back-end**
+- 🌱 I’m currently learning **Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sharan-m-04](https://github.com/Sharan-m-04)
 
