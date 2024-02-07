@@ -2,6 +2,7 @@
 <h3 align="center">Passionate Computer Science and Engineering Student, UI/UX Designer, Web Developer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Sharan-m-04&icon=0&color=3)](https://visitcount.itsvg.in)
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/Sharan-m-04)
 
 ### 💫 About Me:
 
