@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sharan M</h1>
 <h3 align="center">Passionate Computer Science and Engineering Student, UI/UX Designer, Web Developer</h3>
 
+[![](https://visitcount.itsvg.in/api?id=Sharan-m-04&icon=0&color=3)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 
 - 🔭 I’m currently working on [Inventory Management System](https://github.com/Sharan-m-04/Inventory-Management-System)
@@ -33,7 +35,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sharan-m-04&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sharan-m-04&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Connect Me At:
 <div align="center">
