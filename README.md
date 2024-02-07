@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharan M</h1>
-<h3 align="center">A passionate Computer Science and Engineering student at Visvesvaraya Technological University.</h3>
+<h3 align="center">Passionate Computer Science and Engineering Student | UI/UX Designer | Web Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharan-m-04" alt="sharan-m-04" /></a> </p>
 
