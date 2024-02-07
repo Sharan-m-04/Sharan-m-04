@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sharan M</h1>
 <h3 align="center">Passionate Computer Science and Engineering Student, UI/UX Designer, Web Developer</h3>
 
+# 💫 About Me:
+
 - 🔭 I’m currently working on [Inventory Management System](https://github.com/Sharan-m-04/Inventory-Management-System)
 
 - 🌱 I’m currently learning **Frameworks**
@@ -14,10 +16,6 @@
 - 📄 Know about my experiences [https://sharan-m-04.github.io/](https://sharan-m-04.github.io/)
 
 <div style="text-align: center;">
-
-# 💫 About Me:
-This is about me
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_sharan_m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharanm04) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18408709/sharan-m) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sharan_M_) 
