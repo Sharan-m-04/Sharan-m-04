@@ -40,3 +40,5 @@
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=Sharan-m-04&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharan-m-04&label=Profile%20views&color=009100&style=flat" alt="sharan-m-04" /> </p>
