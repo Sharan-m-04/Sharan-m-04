@@ -29,7 +29,7 @@
 
 </div>
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Sharan-m-04&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🌐 Connect Me At:
