@@ -39,4 +39,6 @@
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharan-m-04&label=Profile%20views&color=009100&style=flat" alt="sharan-m-04" /> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=sharan-m-04&label=Profile%20views&color=009100&style=flat" alt="sharan-m-04" />
+</p>
