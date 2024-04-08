@@ -3,7 +3,7 @@
 
 ### 💫 About Me:
 
-- 🔭 I’m recently worked on [Inventory Management System](https://github.com/Sharan-m-04/Inventory-Management-System)
+- 🔭 I recently worked on [Inventory Management System](https://github.com/Sharan-m-04/Inventory-Management-System)
 
 - 🌱 I’m currently learning **Frameworks**
 
