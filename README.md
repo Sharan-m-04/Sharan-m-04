@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **msharan.hnp@gmail.com**
 
-- 📄 Know about my experiences [https://sharan-m-04.github.io/](https://sharan-m-04.github.io/)
+- 📄 My portfolio website [https://sharan-m-04.github.io/](https://sharan-m-04.github.io/)
 
 ### 💻 Tech Stack:
 <div align="center">
