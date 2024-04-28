@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sharan M</h1>
-<h4 align="center">A Passionate Computer Science and Engineering Student, UI/UX Designer, and Web Developer</h4>
+<h1 align="center">
+Hi 👋, I'm Sharan M
+</h1>
+<h4 align="center">
+A Passionate Computer Science and Engineering Student, UI/UX Designer, and Web Developer
+</h4>
 
 ### 💫 About Me:
 
