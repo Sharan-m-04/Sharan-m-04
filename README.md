@@ -7,7 +7,7 @@ A Passionate Computer Science and Engineering Student, UI/UX Designer, and Web D
 
 ### 💫 About Me:
 
-- 🔭 I recently worked on [Inventory Management System](https://github.com/Sharan-m-04/Inventory-Management-System)
+- 🔭 I currently working on [MediaMorphAI](#)
 
 - 🌱 I’m currently learning **Frameworks**
 
