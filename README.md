@@ -2,7 +2,7 @@
 Hi 👋, I'm Sharan M
 </h1>
 <h4 align="center">
-A Passionate Computer Science and Engineering Student, UI/UX Designer, and Web Developer
+A Passionate Computer Science and Engineering Student | UI/UX Designer | Full Stack Developer
 </h4>
 
 ### 💫 About Me:
