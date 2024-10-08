@@ -7,7 +7,7 @@ A Passionate Computer Science and Engineering Student | UI/UX Designer | Full St
 
 ### 💫 About Me:
 
-- 🔭 I currently working on [MediaMorphAI](#)
+- 🔭 I currently working on [Inspyr AI](#)
 
 - 🌱 I’m currently learning **Frameworks**
 
