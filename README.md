@@ -2,17 +2,13 @@
 Hi 👋, I'm Sharan M
 </h1>
 <h4 align="center">
-A Passionate Computer Science and Engineering Student | UI/UX Designer | Full Stack Developer
+Software Developer | UI/UX Designer
 </h4>
 <br>
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/6b0ee85c-d5a9-4420-9b2a-25213a973678)
 
 ### 💫 About Me:
-
-- 🔭 I currently working on [Inspyr AI](#)
-
-- 🌱 I’m currently learning **Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sharan-m-04](https://github.com/Sharan-m-04)
 
